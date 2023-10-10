@@ -1,0 +1,27 @@
+_repo: The-railhead-at-Kysyl-Khoto_71814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    alias: Lang, Allen K.
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71814'
+language: en
+pgterms:marc905: 20230902082543lang
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The railhead at Kysyl Khoto
+url: http://www.gutenberg.org/ebooks/71814
